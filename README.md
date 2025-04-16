@@ -10,6 +10,6 @@ Monster Hunter : Rise 를 모작하여 만들게 되었으며 이 모작에 사�
 
 아래 링크를 통해 Content 폴더에 파일을 추가하시기 바랍니다
 
-"https://drive.google.com/file/d/1e_pv9TOxRq9OsdBR6HuH4k8-UN9LIijR/view?usp=drive_link"
+"https://drive.google.com/file/d/1n5-iw0wl3fhtvQW6hXOK1fSF5iwMXpcV/view?usp=drive_link"
 
 감사합니다
