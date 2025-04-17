@@ -13,3 +13,5 @@ Monster Hunter : Rise 를 모작하여 만들게 되었으며 이 모작에 사�
 "https://drive.google.com/file/d/1n5-iw0wl3fhtvQW6hXOK1fSF5iwMXpcV/view?usp=drive_link"
 
 감사합니다
+
+YouTuBe : https://youtu.be/bUT6sfrKVgY
